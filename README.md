@@ -10,8 +10,8 @@ https://data.census.gov/table/ACSST5Y2022.S2504?q=car%20ownership
 NYC Census Tracts Shapefile:
 https://www.nyc.gov/site/planning/data-maps/open-data/census-download-metadata.page
 
-
-
+Bodega to Supermarkets Ratio:
+https://a816-dohbesp.nyc.gov/IndicatorPublic/data-explorer/healthy-eating/?id=2389#display=summary
 
 # QGIS DOCUMENTATION
 

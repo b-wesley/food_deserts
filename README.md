@@ -1,5 +1,12 @@
 # food_deserts
 
+![car ped comparison](https://github.com/user-attachments/assets/b39743fe-b90d-41b2-b57c-63eb9f918504)
+
+
+![car ownership and food deserts](https://github.com/user-attachments/assets/cd67ec48-0379-48c3-90b3-43e0ed41ba71)
+
+
+
 # DATA SOURCES:
 NYS Retail Food Stores:
 https://data.ny.gov/Economic-Development/Retail-Food-Stores/9a8c-vfzj/about_data

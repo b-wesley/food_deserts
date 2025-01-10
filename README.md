@@ -1,4 +1,4 @@
-# food_deserts
+# Food Deserts and Their Relationship to Car Ownership in NYC
 
 ![car ped comparison](https://github.com/user-attachments/assets/b39743fe-b90d-41b2-b57c-63eb9f918504)
 
